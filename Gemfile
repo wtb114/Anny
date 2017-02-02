@@ -48,5 +48,4 @@ end
 group :production do
   gem 'rails_12factor'
   gem 'pg'
-  gem "rubycritic", :require => false
 end
