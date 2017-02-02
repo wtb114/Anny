@@ -39,6 +39,18 @@ img {max-width: 100%;}
    bottom:0;
 }
 
+.header-menu{
+  height: 50px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #fff;
+  line-height: 50px;
+  border-bottom: 1px solid #eee;
+  z-index: 10;
+}
+
 .navArea {
   /*float:right;*/
 }
