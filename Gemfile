@@ -45,6 +45,8 @@ group :development do
   gem 'spring'
 end
 
+gem 'jquery-turbolinks'
+
 group :production do
   gem 'rails_12factor'
   gem 'pg'
