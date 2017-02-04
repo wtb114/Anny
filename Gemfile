@@ -46,6 +46,7 @@ group :development do
 end
 
 gem 'jquery-turbolinks'
+gem 'bootstrap-sass'
 
 group :production do
   gem 'rails_12factor'
